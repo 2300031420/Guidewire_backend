@@ -237,4 +237,4 @@ python app.py
 
 ##  Author
 
-Built for hackathon innovation 🚀
+Built for hackathon innovation 
